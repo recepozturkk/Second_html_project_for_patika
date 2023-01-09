@@ -1,1 +1,1 @@
-# Second HTML project for [PATIKA](https://kodluyoruz.org)
+# Second HTML project for [PATIKADEV](https://kodluyoruz.org)
